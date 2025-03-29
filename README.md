@@ -82,8 +82,3 @@ The API endpoint successfully loads and validates datasets, detects missing valu
 - User-friendly API for integrating dataset validations in web applications.
 
 ---
-
-## Getting Started
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/mrshyam4321/data-processing-task.git
